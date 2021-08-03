@@ -9,9 +9,9 @@
 
  * #### 🛠 newcomer Back-end engineer
  * #### 🧡 interested in AWS, Data analysis
- * #### 🔥 able and willing to study hard
  * #### ✨ currently preparing for a Data analystic contest
  * #### 👀 currently looking for a job
+ * #### 🔥 able and willing to study hard ( eager beaver )
 
 
 <br/>

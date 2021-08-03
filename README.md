@@ -10,6 +10,9 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
+
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={osk3425})](https://solved.ac/{osk3425})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={osk3425})](https://solved.ac/{osk3425})
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={osk3425})](https://solved.ac/{osk3425})

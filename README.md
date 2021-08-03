@@ -3,15 +3,16 @@
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@osk3856)](https://velog.io/@osk3856)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osk3856@gmail.com)](mailto:osk3856@gmail.com)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=SEONGKEUN%20OH&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BACK-END%20ENGINEER%20FROM%20SOUTH%20KOREA❤&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=SEONGKEUN%20OH&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FROM%20SOUTH%20KOREA❤&descAlignY=51&descAlign=62)
 
-## Hi there, I'm Seongkeun from south-korea 👋
+### who am I ?👋
 
-### 🛠Back-end engineer🛠
+ * #### 🛠 newcomer Back-end engineer
+ * #### 🧡 interested in AWS, Data analysis
+ * #### 🔥 able and willing to study hard
+ * #### ✨ currently preparing for a Data analystic contest
+ * #### 👀 currently looking for a job
 
-<br/>
-
---------
 
 <br/>
 

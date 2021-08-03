@@ -7,7 +7,9 @@
   [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@osk3856)](https://velog.io/@osk3856)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osk3856@gmail.com)](mailto:osk3856@gmail.com)
   
-  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={osk3425})](https://solved.ac/{osk3425})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={osk3425})](https://solved.ac/{osk3425})
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={osk3425})](https://solved.ac/{osk3425})

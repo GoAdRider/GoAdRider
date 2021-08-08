@@ -14,6 +14,16 @@
  * #### 🔥 able and willing to study hard ( eager beaver )
 
 
+### TODO
+<details>
+  <summary>summary</summary>
+  
+   - [ ] 백준 기초강의에 수렴하는 부분 알고리즘
+   - [ ] 클론코딩 - 리팩토링 개인프로젝트
+  
+</details>
+
+
 <br/>
 
 **Languages and Tools:**  

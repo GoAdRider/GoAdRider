@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoAdRider&count_bg=%231B41C3&title_bg=%23CF0A0A&icon=&icon_color=%23DD9B9B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@osk3856)](https://velog.io/@osk3856)
+[![Velog Badge](http://img.shields.io/badge/-VELOG-20c997?style=flat&link=https://velog.io/@osk3856)](https://velog.io/@osk3856)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osk3856@gmail.com)](mailto:osk3856@gmail.com)
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=SEONGKEUN%20OH&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FROM%20SOUTH%20KOREA❤&descAlignY=51&descAlign=62)
